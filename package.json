@@ -1,11 +1,11 @@
 {
-  "name": "v4",
+  "name": "Portfolio",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Nathamayil Natesh <nathamayil@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/nathamayil/nathamayilnatesh"
   },
   "keywords": [
     "gatsby"
@@ -51,6 +51,7 @@
     "gatsby-transformer-remark": "^4.1.0",
     "gatsby-transformer-sharp": "^3.4.0",
     "lodash": "^4.17.19",
+    "Portfolio": "file:",
     "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
