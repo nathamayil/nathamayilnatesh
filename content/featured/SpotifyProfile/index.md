@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Server Hack Prediction'
+cover: './serverhack.png'
+github: '[https://github.com/nathamayil/Predicting-Server-Hack-using-SMOTE-and-Bayesian-Optimization]'
+
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Python
+  - Kaggle
+  - Jupyter Notebook
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A ML Project aimed at prediction of a server hack from the Malicious Server Hack dataset in Kaggle, using SMOTE, XGBoost and Bayesian Optimization, achieving near-perfect prediction of 99%
