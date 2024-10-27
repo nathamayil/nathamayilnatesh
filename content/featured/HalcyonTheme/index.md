@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Keycord'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/nathamayil/keycord'
+external: 'https://mayillikestotech.medium.com/building-a-python-based-keylogger-that-sends-logs-through-mails-77b77d0a480e'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - Google Cloud
+  - Gmail API
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Your friendly-neighbourhood keylogger that sends logs to your mail, with customized message templates and duration control. Built using Python, Google Cloud and Gmail API.
+
