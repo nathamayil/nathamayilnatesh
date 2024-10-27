@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hey There! I am Nathamayil. As a CS Undergrad, I've found my passion at the crossroads of technology and graphic design. I started off as a beginner in programming and data analytics, which led me to learn more about web programming, and eventually it evolved into a full fledged interest in cybersecurity, after trying out and winning CTFs. I love working as a part of the team as one gets to see a broader perspective of things along with constructive criticism that would help in my growth.
+            Hey There! I am Nathamayil. As a CS Undergrad, I've found my passion at the crossroads of technology,cryptography and graphic design. I started off as a beginner in programming, which led me to learn more about web hacking, and eventually it evolved into a full fledged interest in cybersecurity, after trying out and winning CTFs. I love working as a part of the team as one gets to see a broader perspective of things along with constructive criticism that would help in my growth.
             </p>
 
             <p>
