@@ -1,16 +1,14 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'SIEMonitor'
+cover: './siem.png'
+github: '[https://github.com/nathamayil/SIEMonitor]'
+external: '[https://mayillikestotech.medium.com/creating-a-siem-lab-using-elasticagent-and-parrot-os-1881f46030e4]'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Linux CLI
+  - Elastic Cloud and API
+  - Parrot OS
+    
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+A simple, yet powerful SIEM monitor that one can build at home, using one of the best OS a cybersecurity analyst can have with efficient logging. Wrote a guide on my Medium blog on how to build it from scratch.
