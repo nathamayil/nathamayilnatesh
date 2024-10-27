@@ -1,12 +1,11 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2022-12-01'
+title: 'Software Engineer Intern'
+company: 'BoxFile Web Services'
+location: 'India'
+range: 'December - February 2023'
+url: 'https://boxfile.in/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Worked as a part of the development team of the starup involved in building a could OS for auditing and finance functions for accountants.
+- Worked with Angular Material in the Front-End for a financial audit application.
