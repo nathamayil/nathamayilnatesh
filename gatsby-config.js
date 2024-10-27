@@ -10,7 +10,7 @@ module.exports = {
     twitterUsername: '@nathamayil07',
   },
   plugins: [
-    `gatsby-plugin-react-helme
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
