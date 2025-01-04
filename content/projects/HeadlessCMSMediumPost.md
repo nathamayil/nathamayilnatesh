@@ -1,15 +1,12 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+date: '2023-05-14'
+title: 'Feature-Based Allergen Detection System'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'https://github.com/nathamayil/ML-based-allergen-detection-system'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Python
+
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+A ML Project based on feature-based allergen identification in food images by mapping ingredients to common allergies
