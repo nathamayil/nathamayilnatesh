@@ -1,14 +1,12 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+date: '2021-12-01'
+title: 'Prediction of Deaths caused by Air Pollution'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://github.com/nathamayil/Prediction-of-Deaths-caused-by-Air-Pollution'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
+  - Python
+  - Tableau
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+A ML Project aimed at predicting deaths based on the Air Quality Index(AQI) of different countries while creating a comparitive study between first and third world nations
