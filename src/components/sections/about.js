@@ -144,13 +144,13 @@ const About = () => {
               <a href="https://boxfile.in/">a start-up</a>,{' '}
               <a href="https://www.finlatics.com/">a business analytics platform</a>, and{' '}
               <a href="https://litsoc.netlify.app/">a leading club at my university</a>. My
-              main focus these days is building upon my cybersecurity skills, while working with backend development artificial intelligence skills by working on projects that integrate both,
-              at <a href="https://bankofamerica.com/">Bank of America</a> for{' '}<a href="https://mymerrill.com"> Merrill Lynch</a>
-              ,the investment and wealth management division. I have also been taking part in various CTFs and Bug Bounty hunting contests, notably, making it to the Tier 3 of WiCyS Security Training Scholarship 2024, sponsored by SANS Institute, finishing onto the top 5% out of nearly 1500 participants.
+              main focus these days is building upon my cybersecurity skills, while working with backend development and artificial intelligence skills by working on projects that integrate both,
+              at <a href="https://bankofamerica.com/">Bank of America</a>.
+              I have also been taking part in various CTFs and Bug Bounty hunting contests, notably, making it to the Tier 3 of WiCyS Security Training Scholarship 2024, sponsored by <a href="https://www.sans.org/apac/">SANS Institute</a>, finishing onto the top 5% out of nearly 1500 participants.
             </p>
 
             <p>
-              I also blog about cybersecurity and other tech news on{' '}
+              I blog about cybersecurity and other tech news on{' '}
               <a href="https://mayillikestotech.medium.com/">Medium
               </a>{' '}
             </p>
