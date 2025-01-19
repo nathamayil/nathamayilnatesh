@@ -68,9 +68,9 @@ const Hero = () => {
        A software engineer passionate about cybersecurity, backend development, data visualization, and cloud technology, with a creative flair for design on occasion. My goal is to craft seamless and impactful digital experiences. Currently, I work on backend development
         at{' '}
         <a href="https://bankofamerica.com/" target="_blank" rel="noreferrer">
-          Bank of America,
-        </a>
-        actively contributing as a member <a href="https://www.wicys.org/" target="_blank" rel="noreferrer">
+          Bank of America
+        </a>,
+         actively contributing as a member <a href="https://www.wicys.org/" target="_blank" rel="noreferrer">
          WiCyS (Women in Cybersecurity).
         </a>
       </p>
