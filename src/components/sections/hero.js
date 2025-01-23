@@ -70,7 +70,7 @@ const Hero = () => {
         <a href="https://bankofamerica.com/" target="_blank" rel="noreferrer">
           Bank of America
         </a>,
-         actively contributing as a member <a href="https://www.wicys.org/" target="_blank" rel="noreferrer">
+         actively contributing as a member of<a href="https://www.wicys.org/" target="_blank" rel="noreferrer">
          WiCyS (Women in Cybersecurity).
         </a>
       </p>
