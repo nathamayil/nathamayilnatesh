@@ -1,5 +1,6 @@
 ---  
 date: '2023-07-16'  
+title: 'Backend Developer'
 company: 'Bank of America'  
 location: 'India'  
 range: 'July 2023 - Present'  
